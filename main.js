@@ -6,8 +6,8 @@ let glyphStates = {
 };
 
 let colorStates = {
-  "black" : "",
-  "": "black"
+  "orange" : "",
+  "": "orange"
 };
 
 let articleHearts = document.querySelectorAll(".like");
